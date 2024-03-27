@@ -1,0 +1,1 @@
+CUDA_LAUNCH_BLOCKING=1 CUDA_VISIBLE_DEVICES=4 nohup python main.py --m_part 20 --m_block_num 4 --mixup_alpha 2.0 --clean_lam 1.0 --m_beta 0.32 --m_gamma 1.0 --m_thres 0.83 --m_eta 0.05 --m_omega 0.001 &
