@@ -1,4 +1,4 @@
-# Machine-Learning-Final-Project
+# Data Augmentation-driven Few-shot Scribble Supervised Medical Image Segmentation
 This is the final project of JHU EN.520.612 Machine Learning for Signal Processing course.
 
 ## Introduction
